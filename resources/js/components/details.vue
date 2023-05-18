@@ -23,8 +23,8 @@
                         <p class="text-4xl font-bold">123</p>
                         <p>Users</p>
                     </div>
-                    <div class="mt-2">
-                        <svg class=" h-6 w-6" fill="#000000" height="200px" width="200px" version="1.1" id="Capa_1"
+                    <button class="h-4">
+                        <svg class=" h-4 w-4" fill="#000000" height="200px" width="200px" version="1.1" id="Capa_1"
                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                             viewBox="0 0 32.055 32.055" xml:space="preserve" transform="rotate(90)">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -37,7 +37,7 @@
                                 </g>
                             </g>
                         </svg>
-                    </div>
+                    </button>
                 </div>
                 <div>
                     <img src="/img/user.png" alt="">
@@ -50,8 +50,8 @@
                         <p class="text-4xl font-bold">2000</p>
                         <p>Users</p>
                     </div>
-                    <div class="mt-2">
-                        <svg class=" h-6 w-6" fill="#000000" height="200px" width="200px" version="1.1" id="Capa_1"
+                    <button class="h-4">
+                        <svg class=" h-4 w-4" fill="#000000" height="200px" width="200px" version="1.1" id="Capa_1"
                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                             viewBox="0 0 32.055 32.055" xml:space="preserve" transform="rotate(90)">
                             <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -64,7 +64,7 @@
                                 </g>
                             </g>
                         </svg>
-                    </div>
+                    </button>
                 </div>
                 <div>
                     <img src="/img/user.png" alt="">
