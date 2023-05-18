@@ -51,7 +51,7 @@
                         <img src="/img/green img.jpeg" alt="." class="h-16 w-20">
                     </div>
                     <div class="">
-                        <h2 class="text-4xl">PieCloud</h2>
+                        <h2 class="text-4xl">PieLancer</h2>
                         <p>Status: 100% [All operation]</p>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         <img src="/img/green img.jpeg" alt="." class="h-16 w-20">
                     </div>
                     <div class="">
-                        <h2 class="text-4xl">PieCloud</h2>
+                        <h2 class="text-4xl">FileSSH</h2>
                         <p>Status: 100% [All operation]</p>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <img src="/img/green img.jpeg" alt="." class="h-16 w-20">
                     </div>
                     <div class="">
-                        <h2 class="text-4xl">PieCloud</h2>
+                        <h2 class="text-4xl">Redo CLI</h2>
                         <p>Status: 100% [All operation]</p>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                         <img src="/img/green img.jpeg" alt="." class="h-16 w-20">
                     </div>
                     <div class="">
-                        <h2 class="text-4xl">PieCloud</h2>
+                        <h2 class="text-4xl">PieCloud Blog</h2>
                         <p>Status: 100% [All operation]</p>
                     </div>
                 </div>
